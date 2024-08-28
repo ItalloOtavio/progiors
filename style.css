@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    padding: 0;
+}
+/*Minha foto de perfil*/
+.imagem{
+    width: 80px; 
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover; 
+    border: 3px solid #ddd; 
+    display: block;
+    margin: 20px auto; 
+}
