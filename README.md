@@ -9,7 +9,7 @@ Progressão Personalizada: Roteiros de aprendizado adaptáveis que se ajustam ao
 Comunidade e Suporte: Recursos para interagir com outros aprendizes e obter suporte através de fóruns e grupos de discussão.
 Tecnologias Utilizadas:
 
-Front-end: HTML, CSS, JavaScript, e frameworks/libraries como React ou Vue.js para criar uma interface de usuário intuitiva e responsiva.
-Back-end: Node.js, Express, ou outra tecnologia de servidor para gerenciar a lógica de aplicação e o armazenamento de dados.
+Front-end: HTML, CSS, JavaScript, e frameworks/libraries para criar uma interface de usuário intuitiva e responsiva.
+Back-end: (ainda a definir) tecnologia de servidor para gerenciar a lógica de aplicação e o armazenamento de dados.
 Banco de Dados: Utilização de bancos de dados relacionais ou NoSQL para armazenar informações dos usuários, progresso e conteúdo dos cursos.
 Gamificação: Implementação de sistemas de pontos, badges e recompensas para criar uma experiência de aprendizado envolvente e motivadora.
