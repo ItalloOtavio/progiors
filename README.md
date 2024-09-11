@@ -1,4 +1,4 @@
-O ProgIors é uma aplicação inovadora inspirada no Duolingo, projetada para ajudar os usuários a aprender linguagens de programação de maneira interativa e envolvente. Assim como o Duolingo revoluciona o aprendizado de idiomas com uma abordagem gamificada, o CodeLingo traz uma metodologia semelhante para o aprendizado de programação, oferecendo uma plataforma divertida e eficaz para aspirantes a desenvolvedores.
+O ProgIors é uma aplicação inovadora inspirada no Duolingo, projetada para ajudar os usuários a aprender linguagens de programação de maneira interativa e envolvente. Assim como o Duolingo revoluciona o aprendizado de idiomas com uma abordagem gamificada, o ProgIors traz uma metodologia semelhante para o aprendizado de programação, oferecendo uma plataforma divertida e eficaz para aspirantes a desenvolvedores.
 
 Recursos Principais:
 
